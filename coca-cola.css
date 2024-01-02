@@ -216,7 +216,7 @@ header{
     z-index: -1;
     
 }
-sec-i{
+.sec-i{
     display: flex;
     justify-content: center;
     margin-bottom: 13vh;
