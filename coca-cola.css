@@ -216,6 +216,36 @@ header{
     z-index: -1;
     
 }
+sec-i{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 13vh;
+    margin-top: 10vh;
+}
+.box-i{
+    width: 550px;
+    height: 550px;
+    overflow: hidden;
+    border-radius: 14px;
+    box-shadow: 0 1px 2px gray;
+    background-color: white;
+    margin: 0 18px;
+    margin-right: -482px;
+}
+.box-i h3,.box-4 p{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.sec-i img{
+    width: 600px;
+    height: 550;
+    justify-content: center;
+    border-radius: 15px;
+    margin-top: 100px;
+    position: absolute;
+    margin-right: 487px;
+    z-index: -1;
+}
 .Brands{
     display: flex;
     justify-content: center;
